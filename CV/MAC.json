@@ -141,6 +141,16 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Vault Fundamentals Thought Machine Certification",
+        "startDate": "2022-10-01",
+        "institution": {
+          "name": "Thought Machine",
+          "description": "The Vault Core Fundamentals certification enables professionals to prove their knowledge of Vault Core, its architecture and key concepts such as smart contracts. Thought Machine requires all professionals to get Vault Fundamentals certified before selecting a more specialised certification based on their job role, work experience, interests, and future career aspirations."
+        }
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "New Banking Core Thought Machine ",
