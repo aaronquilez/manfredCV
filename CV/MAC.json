@@ -166,7 +166,7 @@
         ]
       },
       {
-        "studyType": "unaccredited",
+        "studyType": "selfTraining",
         "degreeAchieved": true,
         "name": "Spring Boot: Complete guide from development to deployment",
         "startDate": "2022-02-01",
