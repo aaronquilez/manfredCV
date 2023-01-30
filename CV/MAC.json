@@ -1,0 +1,153 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Aaron",
+      "surnames": "Quilez Alferez",
+      "title": "Software developer and Technical Analyst in Banking Sector",
+      "description": "Soy un programador con más de 7 años de experiencia en el sector de la banca tradicional, he trabajado con distintos equipos, con distintos clientes, pero siempre con la misma tecnología.\nSiempre me ha interesado aprender nuevas tecnologías y he aprovechado mis tiempos libres para aprender, creo es el momento para buscar un cambio de rumbo y evolucionar profesionalmente.\n",
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/aaron-quilez-alferez/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "GFT IT Consulting "
+        },
+        "roles": [
+          {
+            "name": "Senior Mainframe Developer ",
+            "startDate": "2015-08-01",
+            "challenges": [
+              {
+                "description": "Desarrollador senior y analista técnico en entorno Mainframe para el sector de la banca, trabajando para distintos clientes europeos. \nResolución de incidencias, despliegues de software, optimización de software, realización de pruebas (Integradas y de Usuario), gestión de pequeños proyectos.\n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Indra"
+        },
+        "roles": [
+          {
+            "name": "Help Desk",
+            "startDate": "2013-01-01",
+            "finishDate": "2015-09-30",
+            "challenges": [
+              {
+                "description": "Soporte telefónico y remoto a los usuarios para poder resolver problemas técnicos de software propietario."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Aspid Lleida "
+        },
+        "roles": [
+          {
+            "name": "Auxiliar de administración de sistemas",
+            "startDate": "2012-01-01",
+            "finishDate": "2012-06-30",
+            "challenges": [
+              {
+                "description": "Realización de las prácticas en empresa, ejerciendo tareas de administrador de redes (gestión de redes, administración de servidores, reparación de ordenadores, resolución de problemas en máquinas Windows)"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JCL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "IBM Mainframe",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Confluence",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cobol",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/aaron-quilez-alferez/"
+        }
+      ]
+    },
+    "status": "openToOffers"
+  }
+}
