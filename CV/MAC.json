@@ -96,31 +96,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JAVA",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Cobol",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "IBM Mainframe",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Visual Studio Code",
+          "name": "Github",
           "type": "technology"
         }
       },
@@ -138,7 +120,13 @@
       },
       {
         "skill": {
-          "name": "Github",
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cobol",
           "type": "technology"
         }
       },
@@ -150,13 +138,25 @@
       },
       {
         "skill": {
+          "name": "IBM Mainframe",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Jira",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "SQL",
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
           "type": "technology"
         }
       }
@@ -373,23 +373,23 @@
   "asgardPreferences": {
     "mainStackTechs": [
       {
-        "name": "Python",
-        "type": "technology"
-      },
-      {
         "name": "JAVA",
         "type": "technology"
       },
       {
-        "name": "Github",
+        "name": "SQL",
+        "type": "technology"
+      },
+      {
+        "name": "Cobol",
+        "type": "technology"
+      },
+      {
+        "name": "IBM Mainframe",
         "type": "technology"
       },
       {
         "name": "Jira",
-        "type": "technology"
-      },
-      {
-        "name": "SQL",
         "type": "technology"
       }
     ]
