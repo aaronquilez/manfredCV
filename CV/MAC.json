@@ -152,6 +152,24 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "API",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "REST",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Backend Developer"
       ]
