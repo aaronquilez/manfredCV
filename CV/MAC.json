@@ -151,6 +151,11 @@
         }
       ]
     },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer"
+      ]
+    },
     "status": "openToOffers"
   }
 }
