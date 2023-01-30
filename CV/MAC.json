@@ -255,7 +255,15 @@
             "type": "technology"
           },
           {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
             "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
             "type": "technology"
           }
         ]
