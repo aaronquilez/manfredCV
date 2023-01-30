@@ -143,6 +143,31 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "New Banking Core Thought Machine ",
+        "startDate": "2022-07-01",
+        "finishDate": "2022-10-01",
+        "institution": {
+          "name": "GFT IT Consulting",
+          "description": "Curso realizado para conocer el funcionamiento de los sistemas bancarios basados en Vault de Thought Machine, desarrollados en Python, basado un API REST y Streaming API. \n"
+        },
+        "linkedCompetences": [
+          {
+            "name": "PyCharm",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio Code",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "REST API web services",
         "startDate": "2022-03-01",
         "finishDate": "2022-04-01",
