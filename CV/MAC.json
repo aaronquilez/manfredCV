@@ -195,6 +195,31 @@
         ]
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Formación en entornos Mainframe",
+        "startDate": "2015-09-01",
+        "finishDate": "2015-10-01",
+        "institution": {
+          "name": "GFT IT Consulting",
+          "description": "Formación onboarding impartida por la empresa en la que se realizaron simulaciones de entornos productivos de mainframe, se realizaron desarrollos en Cobol y visualización de bases de datos DB2"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Cobol",
+            "type": "technology"
+          },
+          {
+            "name": "DB2",
+            "type": "technology"
+          },
+          {
+            "name": "JCL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Higher Education in Web Applications Development",
