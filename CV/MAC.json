@@ -158,6 +158,10 @@
           "type": "technology"
         },
         {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
           "name": "JAVA",
           "type": "technology"
         },
@@ -167,6 +171,10 @@
         },
         {
           "name": "REST",
+          "type": "technology"
+        },
+        {
+          "name": "Spring",
           "type": "technology"
         }
       ],
