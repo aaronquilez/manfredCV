@@ -164,6 +164,35 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Spring Boot: Complete guide from development to deployment",
+        "startDate": "2022-02-01",
+        "finishDate": "2022-04-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Development environment setup\nDemo application overview for the course\nCreation the rest web-services\nCreation of sample web-application\nProfiles and properties\nLogging\nSecurity\nProduction grade feature like actuator.\nDeployment"
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "Maven",
+            "type": "technology"
+          },
+          {
+            "name": "Spring",
+            "type": "technology"
+          },
+          {
+            "name": "Spring Boot",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
