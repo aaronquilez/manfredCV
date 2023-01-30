@@ -193,6 +193,47 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Higher Education in Web Applications Development",
+        "startDate": "2011-09-01",
+        "finishDate": "2013-06-01",
+        "institution": {
+          "name": "CES Ilerna ",
+          "description": "Grado para aprender a desarrollar, implantar y mantener aplicaciones web, con independencia del modelo utilizado y utilizando tecnologías específicas, garantizando el acceso a los datos de forma segura y cumpliendo los criterios de accesibilidad, usabilidad y calidad exigidos en los estándares establecidos.Grado para aprender a desarrollar, implantar y mantener aplicaciones web, con independencia del modelo utilizado y utilizando tecnologías específicas, garantizando el acceso a los datos de forma segura y cumpliendo los criterios de accesibilidad, usabilidad y calidad exigidos en los estándares establecidos."
+        },
+        "linkedCompetences": [
+          {
+            "name": "ASP.net",
+            "type": "technology"
+          },
+          {
+            "name": "C#",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
