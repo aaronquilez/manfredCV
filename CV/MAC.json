@@ -10,6 +10,10 @@
       "surnames": "Quilez Alferez",
       "title": "Software developer and Technical Analyst in Banking Sector",
       "description": "Soy un programador con más de 7 años de experiencia en el sector de la banca tradicional, he trabajado con distintos equipos, con distintos clientes, pero siempre con la misma tecnología.\nSiempre me ha interesado aprender nuevas tecnologías y he aprovechado mis tiempos libres para aprender, creo es el momento para buscar un cambio de rumbo y evolucionar profesionalmente.\n",
+      "avatar": {
+        "alt": "perfilCV.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/01/cb6847c1-ec8a-4736-863f-0680158f367c_perfilcv.jpg"
+      },
       "location": {
         "country": "España",
         "region": "Cataluña",
