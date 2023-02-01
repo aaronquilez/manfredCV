@@ -100,37 +100,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "API",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Confluence",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Cobol",
           "type": "technology"
         }
       },
@@ -142,7 +112,7 @@
       },
       {
         "skill": {
-          "name": "IBM Mainframe",
+          "name": "SQL",
           "type": "technology"
         }
       },
@@ -154,13 +124,13 @@
       },
       {
         "skill": {
-          "name": "Python",
+          "name": "Cobol",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Visual Studio Code",
+          "name": "IBM Mainframe",
           "type": "technology"
         }
       }
@@ -377,11 +347,15 @@
   "asgardPreferences": {
     "mainStackTechs": [
       {
-        "name": "JAVA",
+        "name": "JCL",
         "type": "technology"
       },
       {
         "name": "SQL",
+        "type": "technology"
+      },
+      {
+        "name": "Jira",
         "type": "technology"
       },
       {
@@ -390,10 +364,6 @@
       },
       {
         "name": "IBM Mainframe",
-        "type": "technology"
-      },
-      {
-        "name": "Jira",
         "type": "technology"
       }
     ]
