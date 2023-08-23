@@ -9,24 +9,18 @@
       "name": "Aaron",
       "surnames": "Quilez Alferez",
       "title": "Software developer and Technical Analyst in Banking Sector",
-      "description": "",
+      "description": "Soy un programador con más de 7 años de experiencia en el sector de la banca tradicional, he trabajado con distintos equipos, con distintos clientes, pero siempre con la misma tecnología.\nSiempre me ha interesado aprender nuevas tecnologías y he aprovechado mis tiempos libres para aprender, creo es el momento para buscar un cambio de rumbo y evolucionar profesionalmente.\n",
       "avatar": {
-        "alt": "perfilCV.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/01/cb6847c1-ec8a-4736-863f-0680158f367c_perfilcv.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/01/cb6847c1-ec8a-4736-863f-0680158f367c_perfilcv.jpg",
+        "alt": "perfilCV.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJhSfSCt1ppBIRV1q4GfLAcoM)",
         "country": "España",
         "region": "Cataluña",
-        "municipality": "Igualada",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Igualada"
       }
-    },
-    "relevantLinks": [
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/aaron-quilez-alferez/"
-      }
-    ]
+    }
   },
   "experience": {
     "jobs": [
@@ -85,22 +79,40 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan",
+        "name": "CA",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "English",
+        "name": "EN",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
+          "name": "Cobol",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Confluence",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "IBM Mainframe",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
           "type": "technology"
         }
       },
@@ -112,129 +124,28 @@
       },
       {
         "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Jira",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Cobol",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "IBM Mainframe",
+          "name": "SQL",
           "type": "technology"
         }
       }
     ],
     "studies": [
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Vault Fundamentals Thought Machine Certification",
-        "startDate": "2022-10-01",
-        "institution": {
-          "name": "Thought Machine",
-          "description": "The Vault Core Fundamentals certification enables professionals to prove their knowledge of Vault Core, its architecture and key concepts such as smart contracts. Thought Machine requires all professionals to get Vault Fundamentals certified before selecting a more specialised certification based on their job role, work experience, interests, and future career aspirations."
-        }
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "New Banking Core Thought Machine ",
-        "startDate": "2022-07-01",
-        "finishDate": "2022-10-01",
-        "institution": {
-          "name": "GFT IT Consulting",
-          "description": "Curso realizado para conocer el funcionamiento de los sistemas bancarios basados en Vault de Thought Machine, desarrollados en Python, basado un API REST y Streaming API. \n"
-        },
-        "linkedCompetences": [
-          {
-            "name": "PyCharm",
-            "type": "technology"
-          },
-          {
-            "name": "Python",
-            "type": "technology"
-          },
-          {
-            "name": "Visual Studio Code",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "REST API web services",
-        "startDate": "2022-03-01",
-        "finishDate": "2022-04-01",
-        "institution": {
-          "name": "GFT IT Consulting",
-          "description": "HTTP fundamentals, REST, schema modeling, Spring Boot API implementation and Testing API"
-        },
-        "linkedCompetences": [
-          {
-            "name": "API",
-            "type": "technology"
-          },
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "Spring Boot",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "selfTraining",
-        "degreeAchieved": true,
-        "name": "Spring Boot: Complete guide from development to deployment",
-        "startDate": "2022-02-01",
-        "finishDate": "2022-04-01",
-        "institution": {
-          "name": "Udemy",
-          "description": "Development environment setup\nDemo application overview for the course\nCreation the rest web-services\nCreation of sample web-application\nProfiles and properties\nLogging\nSecurity\nProduction grade feature like actuator.\nDeployment"
-        },
-        "linkedCompetences": [
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "Maven",
-            "type": "technology"
-          },
-          {
-            "name": "Spring",
-            "type": "technology"
-          },
-          {
-            "name": "Spring Boot",
-            "type": "technology"
-          }
-        ]
-      },
-      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Formación en entornos Mainframe",
         "startDate": "2015-09-01",
-        "finishDate": "2015-10-01",
         "institution": {
           "name": "GFT IT Consulting",
           "description": "Formación onboarding impartida por la empresa en la que se realizaron simulaciones de entornos productivos de mainframe, se realizaron desarrollos en Cobol y visualización de bases de datos DB2"
         },
+        "finishDate": "2015-10-01",
         "linkedCompetences": [
           {
             "name": "Cobol",
@@ -255,11 +166,11 @@
         "degreeAchieved": true,
         "name": "Higher Education in Web Applications Development",
         "startDate": "2011-09-01",
-        "finishDate": "2013-06-01",
         "institution": {
           "name": "CES Ilerna ",
           "description": "Grado para aprender a desarrollar, implantar y mantener aplicaciones web, con independencia del modelo utilizado y utilizando tecnologías específicas, garantizando el acceso a los datos de forma segura y cumpliendo los criterios de accesibilidad, usabilidad y calidad exigidos en los estándares establecidos.Grado para aprender a desarrollar, implantar y mantener aplicaciones web, con independencia del modelo utilizado y utilizando tecnologías específicas, garantizando el acceso a los datos de forma segura y cumpliendo los criterios de accesibilidad, usabilidad y calidad exigidos en los estándares establecidos."
         },
+        "finishDate": "2013-06-01",
         "linkedCompetences": [
           {
             "name": "ASP.net",
@@ -298,6 +209,115 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "New Banking Core Thought Machine ",
+        "startDate": "2022-07-01",
+        "institution": {
+          "name": "GFT IT Consulting",
+          "description": "Curso realizado para conocer el funcionamiento de los sistemas bancarios basados en Vault de Thought Machine, desarrollados en Python, basado un API REST y Streaming API. \n"
+        },
+        "finishDate": "2022-10-01",
+        "linkedCompetences": [
+          {
+            "name": "PyCharm",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio Code",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "REST API web services",
+        "startDate": "2022-03-01",
+        "institution": {
+          "name": "GFT IT Consulting",
+          "description": "HTTP fundamentals, REST, schema modeling, Spring Boot API implementation and Testing API"
+        },
+        "finishDate": "2022-04-01",
+        "linkedCompetences": [
+          {
+            "name": "API",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "Spring Boot",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "Spring Boot: Complete guide from development to deployment",
+        "startDate": "2022-02-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Development environment setup\nDemo application overview for the course\nCreation the rest web-services\nCreation of sample web-application\nProfiles and properties\nLogging\nSecurity\nProduction grade feature like actuator.\nDeployment"
+        },
+        "finishDate": "2022-04-01",
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "Maven",
+            "type": "technology"
+          },
+          {
+            "name": "Spring",
+            "type": "technology"
+          },
+          {
+            "name": "Spring Boot",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Vault Fundamentals Thought Machine Certification",
+        "startDate": "2022-10-01",
+        "institution": {
+          "name": "Thought Machine",
+          "description": "The Vault Core Fundamentals certification enables professionals to prove their knowledge of Vault Core, its architecture and key concepts such as smart contracts. Thought Machine requires all professionals to get Vault Fundamentals certified before selecting a more specialised certification based on their job role, work experience, interests, and future career aspirations."
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -305,8 +325,17 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/aaron-quilez-alferez/"
+          "URL": "https://www.linkedin.com/in/aaron-quilez-alferez/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "aaronquilez@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "699421604",
+          "countryCode": "+34"
         }
       ]
     },
@@ -344,20 +373,8 @@
     },
     "status": "openToOffers"
   },
-  "asgardPreferences": {
+  "manfredSpecificData": {
     "mainStackTechs": [
-      {
-        "name": "JCL",
-        "type": "technology"
-      },
-      {
-        "name": "SQL",
-        "type": "technology"
-      },
-      {
-        "name": "Jira",
-        "type": "technology"
-      },
       {
         "name": "Cobol",
         "type": "technology"
@@ -365,7 +382,20 @@
       {
         "name": "IBM Mainframe",
         "type": "technology"
+      },
+      {
+        "name": "JCL",
+        "type": "technology"
+      },
+      {
+        "name": "Jira",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
       }
-    ]
+    ],
+    "desiredJobDescription": "Mi trabajo ideal es el que me permita trabajar en distintos proyectos con diferentes lenguajes y arquitecturas. Valoro positivamente estar involucrado con todas las fases del proyecto y poder compartir conocimiento con mis compañeros de trabajo.\n\n"
   }
 }
