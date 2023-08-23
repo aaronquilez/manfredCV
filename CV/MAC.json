@@ -133,6 +133,12 @@
           "name": "SQL",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
@@ -384,11 +390,11 @@
         "type": "technology"
       },
       {
-        "name": "JCL",
+        "name": "JAVA",
         "type": "technology"
       },
       {
-        "name": "Jira",
+        "name": "JCL",
         "type": "technology"
       },
       {
