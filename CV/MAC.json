@@ -36,11 +36,11 @@
         },
         "roles": [
           {
-            "name": "Senior Mainframe Developer ",
+            "name": "Technical analyst Mainframe ",
             "startDate": "2015-09-01",
             "challenges": [
               {
-                "description": "Desarrollador senior y analista técnico en entorno Mainframe para el sector de la banca, trabajando para distintos clientes europeos. \nResolución de incidencias, despliegues de software, optimización de software, realización de pruebas (Integradas y de Usuario), gestión de pequeños proyectos.\n"
+                "description": "Desarrollador senior y analista técnico en entorno Mainframe para el sector financiero, trabajando para distintos clientes europeos. \nTrabajo en entornos IBM mainframe, con tecnologias como Cobol, y bases de datos DB2, ejecución y creación de JCL.\nResolución de incidencias y proyectos evolutivos end2end, con analisis de requerimientos, análisis funcional, análisis técnico, desarrollo, gestión de pequeñas tareas, pruebas tanto unitarias como integradas y subidas a producción."
               }
             ]
           }
