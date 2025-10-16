@@ -115,6 +115,12 @@
       },
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "IBM Mainframe",
           "type": "technology"
         }
@@ -390,15 +396,15 @@
         "type": "technology"
       },
       {
+        "name": "JCL",
+        "type": "technology"
+      },
+      {
         "name": "Java",
         "type": "technology"
       },
       {
         "name": "SQL",
-        "type": "technology"
-      },
-      {
-        "name": "Spring Boot",
         "type": "technology"
       }
     ],
