@@ -1,15 +1,15 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Aaron",
       "surnames": "Quilez Alferez",
       "title": "Software developer and Technical Analyst in Banking Sector",
-      "description": "Soy un programador con más de 7 años de experiencia en el sector de la banca tradicional, he trabajado con distintos equipos, con distintos clientes, pero siempre con la misma tecnología.\nSiempre me ha interesado aprender nuevas tecnologías y he aprovechado mis tiempos libres para aprender, creo es el momento para buscar un cambio de rumbo y evolucionar profesionalmente.\n",
+      "description": "Soy un programador con más de 9 años de experiencia en el sector financiero, he trabajado con distintos equipos, con distintos clientes, pero siempre relacionado con la tecnología mainframe.\nDentro del sector financiero he estado involucrado en varios proyectos de diferentes ambitos, como correspondencia, prestamos y creditos, cuentas vistas.\nSiempre me ha interesado aprender nuevas tecnologías y titulaciones que pudieran complementar mi conocimiento y mi desarrollo profesional.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/01/cb6847c1-ec8a-4736-863f-0680158f367c_perfilcv.jpg",
         "alt": "perfilCV.jpg"
@@ -20,7 +20,13 @@
         "region": "Cataluña",
         "municipality": "Igualada"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/aaron-quilez-alferez/"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -80,14 +86,17 @@
     "languages": [
       {
         "name": "CA",
+        "fullName": "Catalán / Valenciano",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Limited working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -112,13 +121,13 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "JCL",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JCL",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -195,7 +204,7 @@
             "type": "technology"
           },
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           },
           {
@@ -257,7 +266,7 @@
             "type": "technology"
           },
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           },
           {
@@ -278,7 +287,7 @@
         "finishDate": "2022-04-01",
         "linkedCompetences": [
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           },
           {
@@ -334,15 +343,6 @@
           "URL": "https://www.linkedin.com/in/aaron-quilez-alferez/",
           "type": "linkedin"
         }
-      ],
-      "contactMails": [
-        "aaronquilez@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "699421604",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -356,7 +356,7 @@
           "type": "technology"
         },
         {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         },
         {
@@ -390,15 +390,15 @@
         "type": "technology"
       },
       {
-        "name": "JAVA",
-        "type": "technology"
-      },
-      {
-        "name": "JCL",
+        "name": "Java",
         "type": "technology"
       },
       {
         "name": "SQL",
+        "type": "technology"
+      },
+      {
+        "name": "Spring Boot",
         "type": "technology"
       }
     ],
